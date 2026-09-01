@@ -4,7 +4,7 @@
 
 Horizon Config continues the fast, direct Blender workflow established by HEAVYPOLY, updated, Evolved for Blender 5.2 LTS and maintained by Hao / Horizon Workshop.
 
-##INSTALLATION
+## INSTALLATION
 
 1. Download the ZIP.
 2. Open ZIP, Move the included `portable` folder beside `blender.exe` inside 5,2,1 LTS portable folder.

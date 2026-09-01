@@ -3,6 +3,7 @@
 **Evolved from HEAVYPOLY Config.**
 
 Horizon Config continues the fast, direct Blender workflow established by HEAVYPOLY, updated, Evolved for Blender 5.2 LTS and maintained by Hao / Horizon Workshop.
+for bug reporting https://www.instagram.com/haosketch/ comment in the pinned post 
 
 ## INSTALLATION
 

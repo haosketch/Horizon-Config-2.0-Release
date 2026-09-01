@@ -20,3 +20,9 @@ New feature include - ONE KEY (N side menu) toggle from HP keymapping to Vanilla
 - Windows portable installation
 - macOS portable or user installation
 
+## Lineage
+
+Horizon Config 2.0 is evolved from the original **HEAVYPOLY Config** created by
+Vaughan Ling, with contributions from Julien Gauthier and the HEAVYPOLY
+community. It is an independent continuation rather than an official
+HEAVYPOLY release.
